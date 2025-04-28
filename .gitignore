@@ -1,0 +1,21 @@
+# Build and install directories
+temoto_ros_ws/build/
+temoto_ros_ws/install/
+temoto_ros_ws/log/
+
+# Environment files that might contain API keys
+*.env
+*colcon_command_prefix_build.sh.env*
+
+# Other common files to ignore
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+*.log

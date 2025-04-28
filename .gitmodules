@@ -1,0 +1,12 @@
+[submodule "temoto_demo_resources"]
+	path = temoto_demo_resources
+	url = https://github.com/julianleclerc/temoto_demo_resources.git
+[submodule "temoto_action_assistant"]
+	path = temoto_action_assistant
+	url = https://github.com/temoto-framework/temoto_action_assistant.git
+[submodule "temoto_ros_ws/src/temoto_action_engine_ros2"]
+	path = temoto_ros_ws/src/temoto_action_engine_ros2
+	url = https://github.com/temoto-framework/temoto_action_engine_ros2.git
+[submodule "temoto_ros_ws/src/temoto_nl_interface"]
+	path = temoto_ros_ws/src/temoto_nl_interface
+	url = https://github.com/julianleclerc/temoto_nl_interface.git
