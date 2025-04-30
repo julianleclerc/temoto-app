@@ -1,7 +1,5 @@
 # Temoto App Launcher
 
-A simple launcher script for the Temoto application.
-
 ## Install
 
 ### Get the dependencies
