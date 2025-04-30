@@ -35,6 +35,13 @@ colcon build
 source install/setup.bash
 ```
 
+### Export OPEN AI Key
+```bash
+export OPENAI_API_KEY=your_api_key_here 
+```
+The key must be exported in both the Temoto app terminal and and the action engine terminal
+
+
 ## Usage
 
 From the temoto-app repository root:
