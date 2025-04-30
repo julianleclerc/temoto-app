@@ -3,6 +3,10 @@ temoto_ros_ws/build/
 temoto_ros_ws/install/
 temoto_ros_ws/log/
 
+demo/build/
+demo/install/
+demo/log/
+
 # Environment files that might contain API keys
 *.env
 *colcon_command_prefix_build.sh.env*
