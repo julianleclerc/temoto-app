@@ -4,13 +4,15 @@ A simple launcher script for the Temoto application.
 
 ## Install
 
-Installation Instructions
-
-# Get the dependencies
+### Get the dependencies
+```bash
 sudo apt install libboost-all-dev
+```
 
-# Download this repository
+### Download this repository
+```bash
 git clone --recursive https://github.com/julianleclerc/temoto-app
+```
 
 ## First Time Setup
 
